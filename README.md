@@ -1918,6 +1918,8 @@ Update Time, five active automations, webhooks.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
   * [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
+  * [AITextHumanize](https://aitexthumanize.co/) — Transform AI-generated content into engaging, human-like prose, perfect for students, professionals, and content creators seeking authenticity in their writing.
+  * [Alt Text Generator](https://alttextgenerator.co/) — An intelligent tool for automatically generating alt text for images, enhancing web accessibility and SEO performance with ease.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
